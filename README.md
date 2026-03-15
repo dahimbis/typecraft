@@ -1,6 +1,7 @@
 # TypeCraft - Typing Trainer
 
 A simple, offline typing trainer inspired by MonkeyType. No account needed, no internet required after download.
+It helps improve your typing speed
 
 ## How to use
 
